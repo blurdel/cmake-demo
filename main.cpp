@@ -4,8 +4,9 @@
 
 int main()
 {
-    // std::cout << "Hello World!" << std::endl;
+    std::cout << "CMake Demo" << std::endl;
 
     hello::sayHello();
-    
+
+    std::cout << "Done." << std::endl;    
 }
