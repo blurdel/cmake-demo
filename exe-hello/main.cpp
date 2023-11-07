@@ -1,6 +1,6 @@
-#include<iostream>
+#include <iostream>
 
-#include "hello.hpp"
+#include "lib-hello/hello.hpp"
 
 int main()
 {
